@@ -1,0 +1,614 @@
+{
+        "History":
+	[
+	        {
+		  "question": "Who was the first Prime Minister of India?",
+		  "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Rajendra Prasad"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The Indian National Congress was founded in which year?",
+		  "options": ["1885", "1905", "1947", "1857"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The Battle of Plassey was fought in which year?",
+		  "options": ["1757", "1857", "1947", "1764"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Who built the Taj Mahal?",
+		  "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The Quit India Movement was launched in which year?",
+		  "options": ["1942", "1930", "1920", "1947"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Who was the first woman President of the Indian National Congress?",
+		  "options": ["Sarojini Naidu", "Annie Besant", "Vijaya Lakshmi Pandit", "Indira Gandhi"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The ancient university of Nalanda was located in which present-day Indian state?",
+		  "options": ["Bihar", "Uttar Pradesh", "Madhya Pradesh", "Gujarat"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Who among the following was not a member of the Cabinet Mission?",
+		  "options": ["Pethick-Lawrence", "Stafford Cripps", "A.V. Alexander", "Clement Attlee"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Doctrine of Lapse' was associated with which Governor-General?",
+		  "options": ["Lord Dalhousie", "Lord Curzon", "Lord Wellesley", "Lord Canning"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The famous 'Poona Pact' was signed between Mahatma Gandhi and which leader?",
+		  "options": ["B.R. Ambedkar", "Jawaharlal Nehru", "Subhash Chandra Bose", "M.A. Jinnah"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The Indus Valley Civilization was primarily located in which modern-day country?",
+		  "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Who was the founder of the Maurya Empire?",
+		  "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The First War of Indian Independence took place in which year?",
+		  "options": ["1857", "1947", "1765", "1905"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Who was known as the 'Father of Indian Renaissance'?",
+		  "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar", "Dayananda Saraswati"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The ancient text 'Arthashastra' was written by:",
+		  "options": ["Chanakya", "Panini", "Kalidas", "Banabhatta"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'Dandi March' was associated with which movement?",
+		  "options": ["Non-Cooperation", "Quit India", "Civil Disobedience", "Swadeshi"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which Mughal emperor built the Red Fort in Delhi?",
+		  "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Permanent Settlement' system was introduced by:",
+		  "options": ["Lord Cornwallis", "Lord Dalhousie", "Lord Wellesley", "Lord Curzon"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'Ashtadhyayi', an ancient Sanskrit text on grammar, was composed by:",
+		  "options": ["Patanjali", "Panini", "Kalidasa", "Varahamihira"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'Battle of Buxar' was fought in which year?",
+		  "options": ["1757", "1764", "1857", "1947"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The ancient university of Taxila was located in which modern-day country?",
+		  "options": ["India", "Pakistan", "Bangladesh", "Afghanistan"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Who composed the national anthem 'Jana Gana Mana'?",
+		  "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Ishwar Chandra Vidyasagar", "Sarojini Naidu"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The first Battle of Panipat was fought in which century?",
+		  "options": ["14th", "15th", "16th", "17th"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Who was the first woman ruler of Delhi Sultanate?",
+		  "options": ["Razia Sultana", "Nur Jahan", "Mumtaz Mahal", "Chand Bibi"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'Ryotwari System' was implemented by the British in which region?",
+		  "options": ["Bengal", "Madras", "Bombay", "Punjab"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Who founded the 'Servants of India Society' in 1905?",
+		  "options": ["Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Dadabhai Naoroji", "Lala Lajpat Rai"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'Sanchi Stupa' was commissioned by which emperor?",
+		  "options": ["Ashoka", "Harsha", "Kanishka", "Samudragupta"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which Mughal emperor abolished the 'Jizya tax'?",
+		  "options": ["Babur", "Akbar", "Aurangzeb", "Shah Jahan"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Who ",
+		  "options": ["Ramayana", "Mahabharata", "Puranas", "Upanishads"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'Treaty of Bassein' was signed between the British and which Peshwa?",
+		  "options": ["Balaji Vishwanath", "Baji Rao I", "Baji Rao II", "Nana Saheb"],
+		  "correct_option": 3
+		}
+	],
+	"Geography":
+	[
+	        {
+		  "question": "Which is the longest river in India?",
+		  "options": ["Yamuna", "Godavari", "Ganga", "Brahmaputra"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The Thar Desert is primarily located in which Indian state?",
+		  "options": ["Gujarat", "Rajasthan", "Punjab", "Haryana"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which state has the longest coastline in India?",
+		  "options": ["Tamil Nadu", "Andhra Pradesh", "Gujarat", "Maharashtra"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The capital of Sikkim is?",
+		  "options": ["Shillong", "Gangtok", "Itanagar", "Kohima"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which of these is not a type of rock?",
+		  "options": ["Igneous", "Sedimentary", "Metamorphic", "Terrestrial"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Ring of Fire' is associated with which natural phenomenon?",
+		  "options": ["Earthquakes", "Volcanoes", "Tsunamis", "All of the above"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "Which of these countries does not share a land border with India?",
+		  "options": ["Nepal", "Bhutan", "Myanmar", "Thailand"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Sunderbans' delta is formed by which rivers?",
+		  "options": ["Ganga and Brahmaputra", "Godavari and Krishna", "Mahanadi and Subarnarekha", "Narmada and Tapti"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which parallel of latitude divides India into almost two equal parts?",
+		  "options": ["Equator", "Tropic of Cancer", "Tropic of Capricorn", "Arctic Circle"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which of these is the correct order of the planets from the Sun?",
+		  "options": ["Mercury, Venus, Earth, Mars", "Venus, Mercury, Earth, Mars", "Mercury, Mars, Venus, Earth", "Mars, Venus, Earth, Mercury"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which is the smallest state in India by area?",
+		  "options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'Sunderbans' mangrove forest is primarily located in which state?",
+		  "options": ["Odisha", "West Bengal", "Andhra Pradesh", "Tamil Nadu"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which river is known as the 'Dakshin Ganga'?",
+		  "options": ["Krishna", "Godavari", "Kaveri", "Narmada"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'Silicon Valley of India' refers to:",
+		  "options": ["Hyderabad", "Bangalore", "Pune", "Chennai"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which of these is not a type of volcano?",
+		  "options": ["Active", "Dormant", "Extinct", "Submerged"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'International Date Line' passes through which ocean?",
+		  "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "Which country has the longest coastline in the world?",
+		  "options": ["Russia", "Canada", "Australia", "Indonesia"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'Great Barrier Reef' is located off the coast of:",
+		  "options": ["Brazil", "Australia", "South Africa", "Mexico"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which of these is not a factor affecting climate?",
+		  "options": ["Latitude", "Ocean Currents", "Soil Type", "Altitude"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Ring of Fire' is primarily associated with:",
+		  "options": ["Earthquakes", "Volcanoes", "Both earthquakes and volcanoes", "Tropical storms"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which is the largest state in India by area?",
+		  "options": ["Madhya Pradesh", "Maharashtra", "Rajasthan", "Uttar Pradesh"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Duncan Passage' separates which islands?",
+		  "options": ["Andaman and Nicobar", "Lakshadweep Islands", "Maldives", "Sri Lanka and India"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which river forms the 'Dhuandhar Falls' near Jabalpur?",
+		  "options": ["Yamuna", "Narmada", "Tapti", "Godavari"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'Palk Strait' separates India from which country?",
+		  "options": ["Pakistan", "Bangladesh", "Sri Lanka", "Maldives"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which of these is not a type of desert?",
+		  "options": ["Hot", "Cold", "Coastal", "Volcanic"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Mid-Atlantic Ridge' is an example of what type of plate boundary?",
+		  "options": ["Convergent", "Divergent", "Transform", "Subduction"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which country has the most time zones?",
+		  "options": ["USA", "Russia", "China", "France"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Mariana Trench' is located in which ocean?",
+		  "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "Which of these is not a factor in soil formation?",
+		  "options": ["Parent Material", "Climate", "Topography", "Moon Phases"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Horse Latitudes' are located at about:",
+		  "options": ["0°", "30°", "60°", "90°"],
+		  "correct_option": 2
+		}
+	],
+	"General Science":
+	[
+	        {
+		  "question": "What is the chemical symbol for gold?",
+		  "options": ["Go", "Gd", "Au", "Ag"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which gas is most abundant in Earth's atmosphere?",
+		  "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "What is the unit of electric current?",
+		  "options": ["Volt", "Watt", "Ohm", "Ampere"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "Plants make their food through the process of?",
+		  "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which of these is not a noble gas?",
+		  "options": ["Helium", "Neon", "Argon", "Chlorine"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The pH of pure water is?",
+		  "options": ["5", "7", "9", "11"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which organ produces insulin in the human body?",
+		  "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which of these is not a greenhouse gas?",
+		  "options": ["Carbon Dioxide", "Methane", "Water Vapor", "Oxygen"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "In quantum physics, the 'Pauli Exclusion Principle' is related to?",
+		  "options": ["Behavior of electrons", "Speed of light", "Nuclear fission", "Thermodynamics"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'Higgs Boson' particle is associated with which field?",
+		  "options": ["Gravitational field", "Electromagnetic field", "Higgs field", "Quantum field"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "What is the chemical symbol for sodium?",
+		  "options": ["So", "Na", "Sd", "No"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which planet is known as the 'Red Planet'?",
+		  "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The process by which plants lose water is called:",
+		  "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "What is the unit of force?",
+		  "options": ["Joule", "Watt", "Newton", "Pascal"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+		  "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The study of fossils is called:",
+		  "options": ["Paleontology", "Archaeology", "Geology", "Anthropology"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which of these is not a greenhouse gas?",
+		  "options": ["Carbon dioxide", "Methane", "Nitrogen", "Water vapor"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Big Bang Theory' explains the origin of:",
+		  "options": ["Earth", "Solar System", "Universe", "Galaxy"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "In the periodic table, elements are arranged according to:",
+		  "options": ["Atomic mass", "Atomic number", "Density", "Melting point"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'Doppler Effect' is related to:",
+		  "options": ["Light", "Sound", "Both light and sound", "Nuclear radiation"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "What is the chemical symbol for potassium?",
+		  "options": ["Pt", "Po", "K", "Ka"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which planet has the most moons in our solar system?",
+		  "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The green pigment in plants is called:",
+		  "options": ["Chlorophyll", "Xanthophyll", "Carotene", "Melanin"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "What is the unit of electrical resistance?",
+		  "options": ["Ampere", "Ohm", "Volt", "Watt"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which vitamin deficiency causes scurvy?",
+		  "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The study of earthquakes is called:",
+		  "options": ["Volcanology", "Seismology", "Meteorology", "Geomorphology"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which of these is not a fundamental force?",
+		  "options": ["Gravity", "Electromagnetism", "Strong Nuclear", "Friction"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Standard Model' in physics explains:",
+		  "options": ["Elementary particles", "Relativity", "Quantum computing", "Black holes"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "In the periodic table, halogens are found in Group:",
+		  "options": ["1", "7", "17", "18"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Schrödinger's Cat' thought experiment is related to:",
+		  "options": ["Relativity", "Quantum Superposition", "Thermodynamics", "Electromagnetism"],
+		  "correct_option": 2
+		}
+	],
+	"Miscellaneous":
+	[
+	        {
+		  "question": "Who is the current Prime Minister of India (as of 2023)?",
+		  "options": ["Rahul Gandhi", "Narendra Modi", "Manmohan Singh", "Amit Shah"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which country hosted the 2022 FIFA World Cup?",
+		  "options": ["Brazil", "Qatar", "France", "Russia"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The Chandrayaan-3 mission was launched by which space agency?",
+		  "options": ["NASA", "ISRO", "ESA", "Roscosmos"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which city hosted the 2023 G20 summit?",
+		  "options": ["Rome", "New Delhi", "Bali", "Osaka"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "The 'AUKUS' pact is a security agreement between which countries?",
+		  "options": ["USA, UK, Australia", "USA, Japan, India", "China, Russia, North Korea", "France, Germany, UK"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which country recently changed its name to 'Türkiye' in the UN?",
+		  "options": ["Turkey", "Tunisia", "Turkmenistan", "Tanzania"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'Operation Kaveri' was related to evacuation of Indians from which country?",
+		  "options": ["Ukraine", "Sudan", "Afghanistan", "Yemen"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which Indian state recently introduced the 'Old Pension Scheme' for its employees?",
+		  "options": ["Rajasthan", "Punjab", "Himachal Pradesh", "All of the above"],
+		  "correct_option": 4
+		},
+		{
+		  "question": "The 'Vibrant Village Programme' is an initiative of which ministry?",
+		  "options": ["Ministry of Home Affairs", "Ministry of Rural Development", "Ministry of External Affairs", "Ministry of Tribal Affairs"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which country recently launched its 'Shenzhou-16' manned space mission?",
+		  "options": ["USA", "Russia", "China", "India"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which country recently changed its name to 'Eswatini'?",
+		  "options": ["Swaziland", "Zimbabwe", "Lesotho", "Botswana"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'COVID-19' pandemic was first reported in which country?",
+		  "options": ["Italy", "China", "USA", "India"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which country hosted the 2020 Summer Olympics?",
+		  "options": ["Japan", "China", "Brazil", "UK"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'Paris Agreement' is related to:",
+		  "options": ["Trade", "Climate Change", "Nuclear Weapons", "Refugee Crisis"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which Indian state was bifurcated to create Telangana?",
+		  "options": ["Karnataka", "Tamil Nadu", "Andhra Pradesh", "Maharashtra"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Aadhaar' project is managed by which organization?",
+		  "options": ["NIC", "UIDAI", "NASSCOM", "ISRO"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which country recently launched its digital currency 'e-Yuan'?",
+		  "options": ["USA", "Japan", "China", "UK"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'National Education Policy' was revised in which year?",
+		  "options": ["2018", "2019", "2020", "2021"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which country recently left the European Union?",
+		  "options": ["France", "Germany", "UK", "Italy"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Chandrayaan-3' mission successfully landed on which part of the Moon?",
+		  "options": ["North Pole", "South Pole", "Equator", "Far Side"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which country recently launched its 'Artemis' moon mission?",
+		  "options": ["USA", "China", "Russia", "India"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'COP27' climate conference was held in which country?",
+		  "options": ["UK", "Egypt", "France", "Brazil"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which country recently introduced a 'Digital Nomad Visa'?",
+		  "options": ["Portugal", "Japan", "Australia", "Canada"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'CHIPS Act' recently passed by the US is related to:",
+		  "options": ["Agriculture", "Semiconductors", "Healthcare", "Education"],
+		  "correct_option": 2
+		},
+		{
+		  "question": "Which Indian state recently implemented the 'One Nation One Ration Card' scheme first?",
+		  "options": ["Andhra Pradesh", "Gujarat", "Kerala", "Maharashtra"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "The 'PM Gati Shakti' initiative is related to:",
+		  "options": ["Infrastructure", "Agriculture", "Healthcare", "Education"],
+		  "correct_option": 1
+		},
+		{
+		  "question": "Which country recently launched its 'Tiangong' space station?",
+		  "options": ["USA", "Russia", "China", "India"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'National Logistics Policy' was launched in which year?",
+		  "options": ["2020", "2021", "2022", "2023"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "Which country recently changed its constitution to allow same-sex marriage?",
+		  "options": ["Japan", "Singapore", "Cuba", "Thailand"],
+		  "correct_option": 3
+		},
+		{
+		  "question": "The 'Har Ghar Jal' program aims to provide:",
+		  "options": ["Electricity", "Water", "Internet", "Gas"],
+		  "correct_option": 2
+		}
+	]
+}

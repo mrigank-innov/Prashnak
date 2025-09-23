@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/LoginScreen.qml</file>
+        <file>data/questions.json</file>
+        <file>qml/TopicSelection.qml</file>
+        <file>qml/QuizScreen.qml</file>
+        <file>qml/ResultScreen.qml</file>
+    </qresource>
+</RCC>
