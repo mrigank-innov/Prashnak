@@ -53,8 +53,12 @@ Item
                 font.pixelSize: 18
                 Layout.alignment: Qt.AlignRight
                 color: "#2c3e50"
+            }            
+            Text
+            {
+                id: curTopic
+                text: qsTr(quizManager.currentTopic)
             }
-
             Rectangle
             {
                 Layout.fillWidth: true

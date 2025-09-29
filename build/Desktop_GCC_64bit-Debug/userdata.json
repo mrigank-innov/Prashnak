@@ -1,9 +1,21 @@
 {
+    "br@gmail.com": {
+        "password": "qwerty12",
+        "progress": {
+        },
+        "username": "brant"
+    },
     "qwerty123": {
         "password": "qwerty",
         "progress": {
-            "History": 1
+            "Geography": 1
         },
         "username": "qwerty123"
+    },
+    "yuort@gmail.com": {
+        "password": "qwerty12",
+        "progress": {
+        },
+        "username": "Yourt"
     }
 }

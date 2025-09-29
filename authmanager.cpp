@@ -30,9 +30,11 @@ QVariantMap AuthManager::userData()
 
 bool AuthManager::validateLogin(const QString &email, const QString &password)
 {
-    if (m_userData.contains(email)) {
+    if (m_userData.contains(email))
+    {
         QJsonObject user = m_userData[email].toObject();
-        if (user["password"].toString() == password) {
+        if (user["password"].toString() == password)
+        {
             setUsername(user["username"].toString());
             emit loginSuccess();
             return true;
@@ -44,7 +46,8 @@ bool AuthManager::validateLogin(const QString &email, const QString &password)
 
 bool AuthManager::registerUser(const QString &email, const QString &password, const QString &username)
 {
-    if (m_userData.contains(email)) {
+    if (m_userData.contains(email))
+    {
         emit registrationFailed();
         return false;
     }
@@ -53,6 +56,11 @@ bool AuthManager::registerUser(const QString &email, const QString &password, co
     newUser["password"] = password;
     newUser["username"] = username;
     newUser["progress"] = QJsonObject();
+    QJsonObject userProgress = newUser["progress"].toObject();
+    userProgress["History"] = 0;
+    userProgress["Geography"] = 0;
+    userProgress["General Science"] = 0;
+    userProgress["Miscellaneous"] = 0;
 
     m_userData[email] = newUser;
     saveUserData();
@@ -70,8 +78,9 @@ void AuthManager::logout()
 
 void AuthManager::loadUserData()
 {
-    QFile file("C:/Users/DELL/Documents/Prashnak/data/userdata.json");
-    if (!file.open(QIODevice::ReadOnly)) {
+    QFile file("../../data/userdata.json");
+    if (!file.open(QIODevice::ReadOnly))
+    {
         // Create empty user data if file doesn't exist
         m_userData = QJsonObject();
         return;
@@ -85,8 +94,9 @@ void AuthManager::loadUserData()
 
 void AuthManager::saveUserData()
 {
-    QFile file("../data/userdata.json");
-    if (!file.open(QIODevice::WriteOnly)) {
+    QFile file("../../data/userdata.json");
+    if (!file.open(QIODevice::WriteOnly))
+    {
         qWarning() << "Could not open user data file for writing";
         return;
     }

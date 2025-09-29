@@ -70,7 +70,7 @@ void QuizManager::setTopicAttemptCount(int topicAttemptCount)
 
 void QuizManager::loadQuestions()
 {
-    QString dataFileLctn = "C:/Users/DELL/Documents/Prashnak/data/questions.json";
+    QString dataFileLctn = "../../data/questions.json";
     QFile file(dataFileLctn);
     if (!file.open(QIODevice::ReadOnly))
     {
@@ -182,7 +182,7 @@ void QuizManager::updateUserProgress(const QString &username, QJsonObject userDa
 
 QJsonObject QuizManager::getUserProgress(const QString &username)
 {
-    QFile file("C:/Users/DELL/Documents/Prashnak/data/userdata.json");
+    QFile file("../../data/userdata.json");
     if (!file.open(QIODevice::ReadOnly))
     {
         return QJsonObject();
