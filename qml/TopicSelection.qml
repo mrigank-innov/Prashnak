@@ -1,5 +1,6 @@
-import QtQuick 2.12
-import QtQuick.Controls 2.12
+import QtQuick
+import QtQuick.Controls 2.15
+import QtQuick.Controls.Basic
 import QtQuick.Layouts 1.12
 import io.qt.Prashnak 1.0
 
@@ -53,21 +54,25 @@ Item
 
                     delegate: Button
                     {
+                        contentItem: Text
+                        {
+
+                            text: modelData
+                            anchors.centerIn: parent
+                            font.pixelSize: 18
+                            color: "black"
+                            font.bold: true
+                            id: buttonIndex
+                        }
 
                         background: Rectangle
                         {
-                            color:  "#00ffff"
-                            width: 250
-                            height: parent.height
-                            Text
-                            {
-                                text: modelData
-                                anchors.centerIn: parent
-                                font.pixelSize: 18
-                                color: "black"
-                                font.bold: true
-                                id: buttonIndex
-                            }
+                            width: 200
+                            implicitHeight: parent.height
+                            opacity: enabled ? 1 : 0.3
+                            color: "cyan"
+                            border.width: 1
+                            radius: 2
                         }
 
                         width: parent.width/4
